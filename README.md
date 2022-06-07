@@ -1,6 +1,6 @@
 ## Olá! Aqui é o Eduardo Amarante
 
-🧐 Atualmente aprimorando conhecimentos em Python, HTML e CSS
+🧐 Desenvolvimento Web e algumas skills usando Python :+1:
 
 <div>
   <a href="https://beacons.ai/EduardoAmarante">
@@ -25,7 +25,7 @@
   <a href="https://www.youtube.com/droidhs" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/eduardo4marante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eamarante80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-amarante-a77b471b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardoamarante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/EduardoAmarante/EduardoAmarante/blob/output/github-contribution-grid-snake.svg)
   
