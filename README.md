@@ -16,7 +16,8 @@
   <img align="center" alt="IconJavascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <span>|</span>
   <img align="center" alt="IconPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <span>|</span>
+  <img align="center" alt="IconTs height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
  
   ##
