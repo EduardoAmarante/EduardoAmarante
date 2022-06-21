@@ -18,6 +18,8 @@
   <img align="center" alt="IconTs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <span> </span>
   <img align="center" alt="IconPython" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <span> </span>
+  <img align="center" alt="IconNode" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  </div>
  <br>
 <div> 
