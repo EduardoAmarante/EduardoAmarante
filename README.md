@@ -1,5 +1,3 @@
-## Olá! Aqui é o Eduardo Amarante
-
 🧐 Desenvolvimento Web e algumas skills usando Python :+1:
 
 <div>
