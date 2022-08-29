@@ -1,4 +1,4 @@
-<h2 align="center">🧐 Desenvolvimento Web e algumas skills usando Python :+1: </h2><br>
+<h2 align="center">🧐 Desenvolvimento Web e algumas skills usando Python ✔ </h2><br>
 
 <div align="center">
   <a href="https://beacons.ai/EduardoAmarante">
