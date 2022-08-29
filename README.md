@@ -1,12 +1,12 @@
 🧐 Desenvolvimento Web e algumas skills usando Python :+1:
 
-<div>
+<div align:"center">
   <a href="https://beacons.ai/EduardoAmarante">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardoAmarante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAmarante&layout=compact&langs_count=16&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div align:"center"><br>
   <img align="center" alt="IconHTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <span> </span>
   <img align="center" alt="IconCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
