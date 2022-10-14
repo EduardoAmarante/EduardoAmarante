@@ -1,5 +1,3 @@
-<h2 align="center">🧐 Desenvolvimento Web e algumas skills usando Python ✔ </h2><br>
-
 <div align="center">
   <a href="https://beacons.ai/EduardoAmarante">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoAmarante&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
